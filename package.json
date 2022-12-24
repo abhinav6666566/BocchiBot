@@ -1,12 +1,12 @@
-{
-    "name": "bocchibot",
+
+    "name": "A3H1NAV BOT 2.0",
     "version": "1.0.0",
-    "description": "BocchiBot is a multipurpose WhatsApp bot.",
+    "description": "abhi bot is a multipurpose WhatsApp bot.",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
-    "author": "SlavyanDesu",
+    "author": "ABHINAV KS",
     "repository": {
         "type": "git",
         "url": "https://github.com/SlavyanDesu/BocchiBot.git"
@@ -14,7 +14,7 @@
     "bugs": {
         "url": "https://github.com/SlavyanDesu/BocchiBot/issues"
     },
-    "homepage": "https://github.com/SlavyanDesu/BocchiBot",
+    "homepage": "https://www.youtube.com/@cyber36oopz2",
     "license": "MIT",
     "dependencies": {
         "@justalk/pornhub-api": "^3.5.0",
@@ -51,7 +51,7 @@
         "node-tesseract-ocr": "^2.0.0",
         "parse-ms": "^2.1.0",
         "sagiri": "^3.1.1",
-        "video-url-link": "git+https://github.com/YogaSakti/video-url-link.git"
+        "video-url-link": "https://www.youtube.com/@cyber36oopz2"
     },
     "devDependencies": {
         "eslint": "^8.0.0"
