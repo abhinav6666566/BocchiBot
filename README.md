@@ -66,7 +66,7 @@
 Edit the required value in `config.json`.
 ```json
 {
-    "ownerBot": "62812xxxxxxxx@c.us", 
+    "ownerBot": "917907635894@c.us", 
     "prefix": "$",
     "uaOverride": "WhatsApp/2.2037.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36",
     "nao": "api-key",
@@ -74,8 +74,8 @@ Edit the required value in `config.json`.
     "melodic": "administrator",
     "tobz": "BotWeA",
     "lol": "api-key",
-    "authorStick": "@SlavyanDesu",
-    "packStick": "BocchiBot"
+    "authorStick": "@_a3h1nav.xd_",
+    "packStick": "A3H1NAV BOT V1"
 }
 ```
 
